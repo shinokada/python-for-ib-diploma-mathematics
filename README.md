@@ -4,9 +4,19 @@
 
 This is a list of articles I wrote in [Medium](https://medium.com/@shinichiokada). 
 
-The new IB syllabus introduced a new component called "toolkit". Total time allocation for this component is 30 hours for SL and HL. In the syllabus outline, it reads "Investigative, problem-solving and modelling skills development leading to an individual exploration. 
+The new IB Diploma Mathematics syllabus introduced a new component called "toolkit". Total time allocation for this component is 30 hours for SL and HL. In the syllabus outline, it reads:
 
-In this series, I am going to explore the possibilities what Jupyter Notebook can offer to the IB Mathematics. We are going to use Python which has rich and mature libraries suitable for IB Mathematics. Python is a programming language and currently it is the defacto language for Data Science.
+> Investigative, problem-solving and modelling skills development leading to an individual exploration... 
+
+In this series, I am going to explore the possibilities what Jupyter Notebook can offer to the IB Diploma Mathematics teachers and students. We are going to use Jupyter Notebook.
+
+> The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text... - jupyter.org
+
+We are going to install Anaconda since it includes Jupyter Notebook and Python libraries. Python has rich and mature libraries suitable for IB Mathematics. Python is a programming language and currently [it became the language of choice for Data Science.](https://www.netguru.com/blog/how-did-python-become-the-language-of-choice-for-data-science)
+
+
+
+
 
 > ... gives students opportunities in the classroom for undertaking
 > an inquiry-based approach and focusing on conceptual understanding 
