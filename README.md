@@ -16,8 +16,6 @@ We are going to install Anaconda since it includes Jupyter Notebook and Python l
 
 
 
-
-
 > ... gives students opportunities in the classroom for undertaking
 > an inquiry-based approach and focusing on conceptual understanding 
 > of the conten...
