@@ -26,45 +26,27 @@ We are going to install Anaconda since it includes Jupyter Notebook and Python l
 
 # Topics
 
-Content|Links
----|---
-List of Data Sources|<ul><li>[Nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/List_of_Data_sources.ipynb)<li>[Medium](https://medium.com/@shinichiokada/list-of-data-sources-de586e4fdd7?source=friends_link&sk=b57ca4c7f42d27dd81141a2d300a1813)
-Beginner's Guide to Jupyter Notebook|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-Jupyter-Notebook.ipynb)<li>[Medium link](https://towardsdatascience.com/beginners-guide-to-jupyter-notebook-8bb85b85085?source=friends_link&sk=83bbd7201d6010e95f10b7c8e04d6545)
+|Content|Links
+-|---|---
+1|List of Data Sources|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/List_of_Data_sources.ipynb)<li>[Medium](https://medium.com/@shinichiokada/list-of-data-sources-de586e4fdd7?source=friends_link&sk=b57ca4c7f42d27dd81141a2d300a1813)
+2|Beginner's Guide to Jupyter Notebook|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-Jupyter-Notebook.ipynb)<li>[Medium link](https://towardsdatascience.com/beginners-guide-to-jupyter-notebook-8bb85b85085?source=friends_link&sk=83bbd7201d6010e95f10b7c8e04d6545)
 </ul>
-A Measure of Linear Relationship|<ul><li>[Nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/A-Measure-of-Linear-Relationship.ipynb)<li>[Medium](http://bit.ly/2Pdv6Fj)</ul>
-
-[Spearman's rank correlation](http://bit.ly/2YHF5G8)
-
-- [Chi square goodness of fit test](http://bit.ly/349FsKF)
-
-- [Chi-square Independence Test and The t-test](http://bit.ly/2EaqgST).
-
-- Probability
-
-- Venn diagrams, tree diagrams, sample space diagrams. Combined events. Mutually exclusive events. Conditional probability. Independent events.
-
-- Discrete random variables and probability distributions. Expected value.
-
-- Binomial distribution. 
-
-- Normal distribution
-
-- Reliability tests. Validity tests.
-
-- Least squares regression, square residuals, the coefficient of determination.
-
-- Linear transformation. Expected value of linear combinations of n random variables. Unbiased estimate.
-
-- Central limit theorem
-
-- Confidence intervals for the mean of a normal population
-
-- Poisson distribution
-
-- Test for population mean for normal and Poisson distribution. Population product moment correlation. Type I and II errors.
-
-- Transition matrices. Regular Markov chains. Steady state and long-term probabilities.
-
-
+3|A Measure of Linear Relationship|<ul><li>[Nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/A-Measure-of-Linear-Relationship.ipynb)<li>[Medium](http://bit.ly/2Pdv6Fj)</ul>
+4|Spearman's rank correlation|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Spearmans-rank-correlation-coefficient-for-IB-Diploma-Mathematics.ipynb)<li>[Medium](http://bit.ly/2YHF5G8)</ul>
+4|Chi square goodness of fit test|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-the-Chi-square-Goodness-of-Fit-Test-with-Jupyter-Notebook.ipynb)<li>[Medium](http://bit.ly/349FsKF)</ul>
+5|Chi-square Independence Test and The t-test|<ul><li>[nbviewer]()<li>[Medium](http://bit.ly/2EaqgST)</ul>
+6|Probability|
+7|Venn diagrams, tree diagrams, sample space diagrams. Combined events. Mutually exclusive events. Conditional probability. Independent events.
+8|Discrete random variables and probability distributions. Expected value.
+9|Binomial distribution. 
+10|Normal distribution
+11|Reliability tests. Validity tests.
+12|Least squares regression, square residuals, the coefficient of determination.
+13|Linear transformation. Expected value of linear combinations of n random variables. Unbiased estimate.
+14|Central limit theorem
+15|Confidence intervals for the mean of a normal population
+16|Poisson distribution
+17|Test for population mean for normal and Poisson distribution. Population product moment correlation. Type I and II errors.
+18|Transition matrices. Regular Markov chains. Steady state and long-term probabilities.
 
 
