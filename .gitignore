@@ -20,3 +20,5 @@ Homestead.yaml
 composer.lock
 package-lock.json
 .ipynb_checkpoints
+*.swp
+*.swo
