@@ -34,18 +34,18 @@ No.|Content|Links
 4|Spearman's rank correlation|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Spearmans-rank-correlation-coefficient-for-IB-Diploma-Mathematics.ipynb)<li>[Medium](http://bit.ly/2YHF5G8)</ul>
 4|Chi square goodness of fit test|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-the-Chi-square-Goodness-of-Fit-Test-with-Jupyter-Notebook.ipynb)<li>[Medium](http://bit.ly/349FsKF)</ul>
 5|Chi-square Independence Test and The t-test|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Gentle-Introduction-to-Chi-square-test-for-independence-with-Jupyter-Notebook.ipynb)<li>[Medium](http://bit.ly/2EaqgST)</ul>
-6|Probability|<ul><li>[Link](#)</ul>
-7|Venn diagrams, tree diagrams, sample space diagrams. Combined events. Mutually exclusive events. Conditional probability. Independent events.
-8|Discrete random variables and probability distributions. Expected value.
-9|Binomial distribution. 
-10|Normal distribution
-11|Reliability tests. Validity tests.
-12|Least squares regression, square residuals, the coefficient of determination.
-13|Linear transformation. Expected value of linear combinations of n random variables. Unbiased estimate.
-14|Central limit theorem
-15|Confidence intervals for the mean of a normal population
-16|Poisson distribution
-17|Test for population mean for normal and Poisson distribution. Population product moment correlation. Type I and II errors.
-18|Transition matrices. Regular Markov chains. Steady state and long-term probabilities.
+6|Probability|
+7|Venn diagrams, tree diagrams, sample space diagrams. Combined events. Mutually exclusive events. Conditional probability. Independent events.|
+8|Discrete random variables and probability distributions. Expected value.|
+9|Binomial distribution.|
+10|Normal distribution.|
+11|Reliability tests. Validity tests.|
+12|Least squares regression, square residuals, the coefficient of determination.|
+13|Linear transformation. Expected value of linear combinations of n random variables. Unbiased estimate.|
+14|Central limit theorem|
+15|Confidence intervals for the mean of a normal population|
+16|Poisson distribution|
+17|Test for population mean for normal and Poisson distribution. Population product moment correlation. Type I and II errors.|
+18|Transition matrices. Regular Markov chains. Steady state and long-term probabilities.|
 
 
