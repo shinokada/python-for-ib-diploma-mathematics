@@ -26,8 +26,8 @@ We are going to install Anaconda since it includes Jupyter Notebook and Python l
 
 # Topics
 
-|Content|Links
--|---|---
+No.|Content|Links
+--|---|---
 1|List of Data Sources|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/List_of_Data_sources.ipynb)<li>[Medium](https://medium.com/@shinichiokada/list-of-data-sources-de586e4fdd7?source=friends_link&sk=b57ca4c7f42d27dd81141a2d300a1813)
 2|Beginner's Guide to Jupyter Notebook|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-Jupyter-Notebook.ipynb)<li>[Medium link](https://towardsdatascience.com/beginners-guide-to-jupyter-notebook-8bb85b85085?source=friends_link&sk=83bbd7201d6010e95f10b7c8e04d6545)
 </ul>
