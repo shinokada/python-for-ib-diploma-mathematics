@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is a list of articles I wrote in [Medium](https://medium.com/@shinichiokada). 
+List of articles on [Medium](https://medium.com/@shinichiokada). 
 
 The new IB Diploma Mathematics syllabus introduced a new component called "toolkit". Total time allocation for this component is 30 hours for SL and HL. In the syllabus outline, it reads:
 
