@@ -24,7 +24,11 @@ We are going to install Anaconda since it includes Jupyter Notebook and Python l
 > - IB Mathematics: application and interpretation guide
 
 
-# Topics
+# IB Topics
+
+The first thing is to read through this article.
+
+- [Beginner's Guide to Jupyter Notebook](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-Jupyter-Notebook.ipynb) [Medium link](https://towardsdatascience.com/beginners-guide-to-jupyter-notebook-8bb85b85085?source=friends_link&sk=83bbd7201d6010e95f10b7c8e04d6545)
 
 Some topics are already written and some are not. I will update this article regularly.
 
