@@ -24,21 +24,16 @@ We are going to install Anaconda since it includes Jupyter Notebook and Python l
 > - IB Mathematics: application and interpretation guide
 
 
-# IB Topics
+# Topics
 
-The first thing is to read through this article.
+Content|Links
+---|---
+List of Data Sources|<ul><li>[Nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/List_of_Data_sources.ipynb)<li>[Medium](https://medium.com/@shinichiokada/list-of-data-sources-de586e4fdd7?source=friends_link&sk=b57ca4c7f42d27dd81141a2d300a1813)
+Beginner's Guide to Jupyter Notebook|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-Jupyter-Notebook.ipynb)<li>[Medium link](https://towardsdatascience.com/beginners-guide-to-jupyter-notebook-8bb85b85085?source=friends_link&sk=83bbd7201d6010e95f10b7c8e04d6545)
+</ul>
+A Measure of Linear Relationship|<ul><li>[Nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/A-Measure-of-Linear-Relationship.ipynb)<li>[Medium](http://bit.ly/2Pdv6Fj)</ul>
 
-- Beginner's Guide to Jupyter Notebook ([nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-Jupyter-Notebook.ipynb)), ([Medium link](https://towardsdatascience.com/beginners-guide-to-jupyter-notebook-8bb85b85085?source=friends_link&sk=83bbd7201d6010e95f10b7c8e04d6545))
-
-Some topics are already written and some are not. I will update this article regularly.
-
-At the moment I am forcusing on Statistics and the following is the list from IB Diploma Mathematics: applications and interpretation guide.
-
-- [Descriptive statistics including, histograms,  mean, median, mode, interquartile range, percentiles, standard deviation, variance, range, box and whisker diagram](http://bit.ly/2S1yHIm).
-
-- [Linear correlation of bivariate data. Scatter diagrams including lines of best fit. Equation of the regression line](http://bit.ly/2Pdv6Fj)
-
-- [Spearman's rank correlation](http://bit.ly/2YHF5G8)
+[Spearman's rank correlation](http://bit.ly/2YHF5G8)
 
 - [Chi square goodness of fit test](http://bit.ly/349FsKF)
 
