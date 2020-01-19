@@ -1,0 +1,9 @@
+col1,col2,col3
+11,20,cat
+48,?,dog
+,47,dog
+35,na,cat
+48,0,fox
+35,,dog
+9,NA,cat
+2,N/A,cat
