@@ -32,8 +32,8 @@ Beginner's Guide to Jupyter Notebook|<ul><li>[nbviewer](https://nbviewer.jupyter
 A Measure of Linear Relationship|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/A-Measure-of-Linear-Relationship.ipynb)<li>[Medium](http://bit.ly/2Pdv6Fj)</ul>
 Spearman's rank correlation|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Spearmans-rank-correlation-coefficient-for-IB-Diploma-Mathematics.ipynb)<li>[Medium](http://bit.ly/2YHF5G8)</ul>
 Gentle-Introduction-to-Chi-square-test-for-independence|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Gentle-Introduction-to-Chi-square-test-for-independence.ipynb)</ul>
-Chi square goodness of fit test|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Beginners-Guide-to-the-Chi-square-Goodness-of-Fit-Test-with-Jupyter-Notebook.ipynb)<li>[Medium](http://bit.ly/349FsKF)</ul>
-Chi-square Independence Test and The t-test|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Gentle-Introduction-to-Chi-square-test-for-independence-with-Jupyter-Notebook.ipynb)<li>[Medium](http://bit.ly/2EaqgST)</ul>
+Chi square goodness of fit test|
+Chi-square Independence Test and The t-test|
 Probability|
 Venn diagrams, tree diagrams, sample space diagrams. Combined events. Mutually exclusive events. Conditional probability. Independent events.|
 Discrete random variables and probability distributions. Expected value.|
