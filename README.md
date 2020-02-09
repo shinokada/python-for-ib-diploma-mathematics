@@ -35,7 +35,7 @@ A Measure of Linear Relationship<br> Pearson’s product-moment correlation with
 Discover the strength of monotonic relation<br> Finding Spearman’s rank correlation coefficient using Jupyter Notebook|<ul><li>[Medium](https://towardsdatascience.com/discover-the-strength-of-monotonic-relation-850d11f72046?source=friends_link&sk=e399b8b76149a133f1195baf520b8987)<li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Discover_the_strength_of_monotonic_relation.ipynb)</ul>
 Gentle Introduction to Chi square test for independence|<ul><li>[Medium](https://towardsdatascience.com/gentle-introduction-to-chi-square-test-for-independence-7182a7414a95?source=friends_link&sk=f978a7738d991e1e526af3863a306428)<li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Gentle_Introduction_to_Chi_square_test_for_independence.ipynb)</ul>
 IB Internal Assessment & Extended Essay Ideas<br>Focused on Statistics|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Internal_Assessment_and_Extended_Essay_Ideas.ipynb)</ul>
-Normal Distribution|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Normal_distribution.ipynb)</ul>
+Exploring Normal Distribution with Jupyter<br>Beginners Guide to Normal Distribution|<ul><li>[nbviewer](https://nbviewer.jupyter.org/github/shinokada/python-for-ib-diploma-mathematics/blob/master/Normal_distribution.ipynb)</ul>
 Chi square goodness of fit test|
 Chi-square Independence Test and The t-test|
 Probability|
